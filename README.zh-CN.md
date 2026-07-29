@@ -40,9 +40,9 @@
 ## 🛠 技术
 
 - **后端：** Python 3.11 + aiogram 3
-- **API：** HH.ru OAuth, Telegram Bot API
+- **API：** HH.ru OAuth（俄罗斯招聘平台，类似 Boss 直聘）, Telegram Bot API
 - **托管：** Docker + Ubuntu 24.04
-- **监控：** Yandex Metrika + 电商追踪
+- **监控：** Yandex Metrika（俄罗斯版 Google Analytics）+ 电商追踪
 - **网站：** Astro 5 + Tailwind CSS, Nginx
 
 ## 📈 关键页面

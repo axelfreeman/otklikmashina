@@ -80,3 +80,25 @@
 ---
 
 **关键词：** HH 自动应聘、职位应聘机器人、自动找工作、如何写应聘信、HH 求职信、快速找工作、HH 免费自动应聘、HH 批量应聘、Telegram 求职机器人。
+
+---
+
+## 🔍 中文搜索关键词 · Baidu SEO
+
+`自动应聘` `找工作机器人` `简历自动投递` `Telegram机器人` `求职自动化` `批量投简历` `招聘平台工具` `快速找工作` `AI求职` `自动投递简历` `应聘模板` `求职信生成` `HH.ru替代` `Boss直聘工具` `求职效率`
+
+---
+
+## 🔗 相关项目 · Related Projects
+
+| 项目 | 说明 |
+|------|------|
+| [🤖 AI Marketing Toolkit](https://gitee.com/axelfreeman/ai-marketing-toolkit) | AI 营销脚本与方法论 |
+| [🎙️ Voice → Article](https://gitee.com/axelfreeman/voice-to-article) | 语音转 SEO 文章流水线 |
+| [📝 Blog](https://gitee.com/axelfreeman/blog) | AI 营销与 OSINT 文章 |
+| [💼 ОткликМашина](https://gitee.com/axelfreeman/otklikmashina) | 自动应聘 Telegram 机器人 |
+| [🧠 Vibe Marketing](https://gitee.com/axelfreeman/vibe-marketing) | AI 营销内容库 |
+
+---
+
+*📖 [English](https://github.com/axelfreeman) · [Русский](https://axelfreeman.ru) · [Gitee](https://gitee.com/axelfreeman)*
